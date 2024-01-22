@@ -2,3 +2,5 @@
 Doing the whole ruby koans training :D
 
 # Days doing: [1] | Progress bar:
+
+![Image representing the progress bar of the Ruby Koans](assets/save_bar1.png "Progress Bar")
