@@ -31,7 +31,7 @@ class AboutNil < Neo::Koan
     #    obj.nil?
     # or
     #    obj == nil
-    # Why?
+    # Why? 
   end
 
 end
